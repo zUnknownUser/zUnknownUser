@@ -7,7 +7,7 @@
 
 - 💬 Pergunte me sobre Desenvolvimento Mobile **Firebase, SQlite**
 
-- 📫 Contate-me no e-mail: lucasamorim78c@gmail.com **Flutter**
+- 📫 Contate-me no e-mail: lucasamorim78c@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
