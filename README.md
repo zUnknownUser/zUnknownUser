@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 🫂 Eu sou o Lucas de Amorim!</h1>
+<h1 align="center"> 👋Olá!🫂 Eu sou o Lucas de Amorim!</h1>
 <h3 align="center">< 𝕥𝕒𝕝𝕜 𝕚𝕤 𝕔𝕙𝕖𝕒𝕡 𝕤𝕙𝕠𝕨 𝕞𝕖 𝕥𝕙𝕖 𝕔𝕠𝕕𝕖 /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunknownuser&label=Profile%20views&color=0e75b6&style=flat" alt="zunknownuser" /> </p>
