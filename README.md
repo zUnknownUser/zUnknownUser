@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zunknownuser" alt="zunknownuser" /></a> </p>
 
-- 💬 Pergunte me sobre Desenvolvimento Mobile **Firebase, SQlite**
+- 💬 Pergunte me sobre Desenvolvimento Mobile **Swift, SwiftUi, FireBase**
 
 - 📫 Contate-me no e-mail: lucasamorim78c@gmail.com 
 
