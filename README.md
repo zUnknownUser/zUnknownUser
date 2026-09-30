@@ -1,350 +1,260 @@
-<!-- ============================== -->
-<!--             HEADER             -->
-<!-- ============================== -->
+<!-- Lucas de Amorim -->
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:1F6FEB,100:7C3AED&text=Lucas%20de%20Amorim&fontColor=FFFFFF&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Mobile%20Software%20Engineer&descAlignY=57&descSize=18"
-/>
+<p align="right">
+  <sub>ENGENHARIA MOBILE &nbsp; / &nbsp; PRODUTOS DIGITAIS</sub>
+</p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Swift+%E2%80%A2+SwiftUI+%E2%80%A2+Kotlin+%E2%80%A2+Firebase;Building+mobile+products+with+purpose.;Clean+architecture.+Sharp+UX.+Good+software."
-    alt="Typing SVG"
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=0:151515,100:302820&text=Lucas%20de%20Amorim&fontColor=F3EBDD&fontSize=66&fontFamily=Georgia&fontAlign=50&fontAlignY=43&desc=MOBILE%20SOFTWARE%20ENGINEER&descSize=18&descAlign=50&descAlignY=65"
+    alt="Lucas de Amorim · Mobile Software Engineer"
   />
 </p>
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/lucasdevops">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Lucas%20de%20Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:lucasamorim78c@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-  <a href="https://github.com/zunknownuser">
-    <img
-      src="https://img.shields.io/badge/GitHub-zunknownuser-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
+  <samp>SWIFT &nbsp; / &nbsp; SWIFTUI &nbsp; / &nbsp; KOTLIN &nbsp; / &nbsp; FIREBASE</samp>
 </p>
 
 <br>
 
-<!-- ============================== -->
-<!--              ABOUT             -->
-<!-- ============================== -->
+<h3 align="center">
+  A interface é o começo da conversa.
+</h3>
 
-## 👨‍💻 About me
-
-```swift
-struct Developer {
-
-    let name = "Lucas de Amorim"
-    let role = "Mobile Software Engineer"
-
-    let mainStack = [
-        "Swift",
-        "SwiftUI",
-        "Kotlin",
-        "Firebase"
-    ]
-
-    let interests = [
-        "Mobile Architecture",
-        "Product Engineering",
-        "Design Systems",
-        "Scalable Applications"
-    ]
-
-    let currentGoal = "Build products people actually enjoy using."
-}
-```
-
-I'm a **Mobile Software Engineer** focused on creating applications that combine clean architecture, maintainable code and polished user experiences.
-
-My main focus is native mobile development with **Swift, SwiftUI and Kotlin**, while also working with Firebase, APIs, realtime systems and modern mobile architectures.
-
-I enjoy turning ideas into real products, from architecture and infrastructure to the final interaction on screen.
+<p align="center">
+  O resto acontece no estado, na arquitetura e nas decisões que ninguém vê.
+  <br>
+  Eu gosto de cuidar dos dois lados.
+</p>
 
 <br>
 
-<!-- ============================== -->
-<!--        CURRENTLY BUILDING      -->
-<!-- ============================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucasdevops"><b>LinkedIn ↗</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lucasamorim78c@gmail.com"><b>E-mail ↗</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/zunknownuser?tab=repositories"><b>Repositórios ↗</b></a>
+</p>
 
-## 🚀 Currently building
+<br>
+<br>
+
+## Um pouco sobre mim
+
+Sou desenvolvedor mobile, com foco em **Swift e Kotlin**. Gosto de participar do caminho inteiro de um aplicativo: entender o problema, estruturar a solução e ajustar aquele detalhe da interface que ainda não ficou bom.
+
+Tenho preferência por código que dá para entender, testar e mudar sem precisar desmontar o projeto. Modularização quando ajuda. Abstrações quando fazem sentido. Complexidade extra, só com um bom motivo.
+
+Nos meus projetos autorais, também exploro o lado de produto: o que merece existir, como as pessoas vão usar e o que pode ficar de fora.
+
+<br>
+
+## Projetos autorais
+
+<p>
+  <sub>IDEIAS QUE ESTOU TIRANDO DO PAPEL</sub>
+</p>
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 💜 CoupleOS
-
-A shared digital space designed for couples.
-
-Built around daily rituals, shared decisions, memories and experiences that belong to two people.
-
-#### Stack
-
-`Swift` `SwiftUI` `TCA` `Firebase` `Swift Concurrency`
-
-<br>
-
-<a href="https://github.com/zunknownuser/CoupleOS">
-  <img
-    src="https://img.shields.io/badge/View%20Project-CoupleOS-7C3AED?style=for-the-badge&logo=github&logoColor=white"
-    alt="CoupleOS"
-  />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📖 Verbum
-
-A modern Bible experience focused on exploration, context and intelligent study.
-
-Designed to make reading and understanding scripture feel more connected, contextual and personal.
-
-#### Stack
-
-`Swift` `SwiftUI` `RAG` `APIs` `Firebase`
-
-<br>
-
-<a href="https://github.com/zunknownuser/Verbum">
-  <img
-    src="https://img.shields.io/badge/View%20Project-Verbum-1F6FEB?style=for-the-badge&logo=github&logoColor=white"
-    alt="Verbum"
-  />
-</a>
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zunknownuser/CoupleOS">
+        <img
+          width="100%"
+          src="https://capsule-render.vercel.app/api?type=rounded&height=170&color=0:24202E,100:42334F&text=CoupleOS&fontColor=EADFF1&fontSize=64&fontFamily=Georgia&fontAlignY=48&desc=UM%20ESPACO%20PARA%20DOIS&descSize=19&descAlignY=73"
+          alt="CoupleOS · Um espaço para dois"
+        />
+      </a>
+      <br>
+      <br>
+      <sub>01 &nbsp; / &nbsp; RELACIONAMENTOS</sub>
+      <h3>A vida compartilhada merece um espaço próprio.</h3>
+      <p>
+        Um aplicativo para casais, começando pelos pequenos rituais
+        e interações que fazem parte do dia a dia.
+      </p>
+      <p>
+        Meu espaço para trabalhar experiências compartilhadas,
+        estado em tempo real e uma interface que responde ao momento dos dois.
+      </p>
+      <br>
+      <p>
+        <code>SwiftUI</code>
+        <code>TCA</code>
+        <code>Firebase</code>
+      </p>
+      <p>
+        <sub>Projeto em desenvolvimento</sub>
+      </p>
+      <br>
+      <a href="https://github.com/zunknownuser/CoupleOS"><b>Explorar o projeto ↗</b></a>
+      <br>
+      <br>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zunknownuser/Verbum">
+        <img
+          width="100%"
+          src="https://capsule-render.vercel.app/api?type=rounded&height=170&color=0:28231C,100:4B3D29&text=Verbum&fontColor=F1E4C8&fontSize=64&fontFamily=Georgia&fontAlignY=48&desc=LEITURA%20COM%20CONTEXTO&descSize=19&descAlignY=73"
+          alt="Verbum · Leitura com contexto"
+        />
+      </a>
+      <br>
+      <br>
+      <sub>02 &nbsp; / &nbsp; LEITURA E ESTUDO</sub>
+      <h3>Uma leitura que não termina no último versículo.</h3>
+      <p>
+        Um aplicativo da Bíblia pensado para uma experiência
+        de leitura cuidadosa, com espaço para explorar e compreender.
+      </p>
+      <p>
+        Meu espaço para investigar como contexto, navegação
+        e novas formas de estudo podem enriquecer essa experiência.
+      </p>
+      <br>
+      <p>
+        <code>Swift</code>
+        <code>SwiftUI</code>
+        <code>iOS</code>
+      </p>
+      <p>
+        <sub>Projeto em desenvolvimento</sub>
+      </p>
+      <br>
+      <a href="https://github.com/zunknownuser/Verbum"><b>Explorar o projeto ↗</b></a>
+      <br>
+      <br>
+    </td>
+  </tr>
 </table>
 
 <br>
-
-<!-- ============================== -->
-<!--             STACK              -->
-<!-- ============================== -->
-
-## 🧰 Tech stack
-
-### Mobile
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=swift,kotlin,apple,androidstudio"
-    alt="Mobile Stack"
-  />
-</p>
-
-### Backend & Infrastructure
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=firebase,mysql,git,github"
-    alt="Backend and Infrastructure"
-  />
-</p>
-
-### Tools
-
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=figma,vscode"
-    alt="Tools"
-  />
-</p>
-
 <br>
 
-<!-- ============================== -->
-<!--          SPECIALTIES           -->
-<!-- ============================== -->
-
-## ⚙️ What I work with
-
-```text
-Mobile Engineering      ████████████████████
-Architecture            ███████████████████░
-Product Engineering     ███████████████████░
-UI / UX                 ██████████████████░░
-Backend Integration     █████████████████░░░
-```
+## Na minha bancada
 
 <p>
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift%20Concurrency-F05138?style=flat-square&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TCA-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-1F6FEB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Realtime-238636?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Design%20Systems-FF4785?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Feature--First-0D1117?style=flat-square"/>
-</p>
-
-<br>
-
-<!-- ============================== -->
-<!--          ENGINEERING           -->
-<!-- ============================== -->
-
-## 🧠 Engineering principles
-
-```text
-01. Architecture should make change easier, not harder.
-
-02. Abstractions need to earn their existence.
-
-03. UI is part of the product, not decoration around it.
-
-04. Code should be readable before it is clever.
-
-05. Build → Measure → Learn → Refactor → Ship.
-```
-
-<br>
-
-<!-- ============================== -->
-<!--             STATS              -->
-<!-- ============================== -->
-
-## 📊 GitHub
-
-<p align="center">
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=zunknownuser&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=7C3AED&rank_icon=github"
-    alt="Lucas GitHub Stats"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunknownuser&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-    alt="Most Used Languages"
-  />
-
+  As ferramentas mudam conforme o problema. Hoje, meu foco está aqui.
 </p>
 
 <br>
 
 <p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=zunknownuser&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</p>
-
-<br>
-
-<!-- ============================== -->
-<!--            ACTIVITY            -->
-<!-- ============================== -->
-
-## 📈 Activity
-
-<p align="center">
-
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zunknownuser&bg_color=0D1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
-    alt="Contribution Graph"
-  />
-
-</p>
-
-<br>
-
-<!-- ============================== -->
-<!--           CURRENT FOCUS        -->
-<!-- ============================== -->
-
-## 🎯 Current focus
-
-```text
-→ Native iOS Development
-→ SwiftUI
-→ Swift Concurrency
-→ The Composable Architecture
-→ Kotlin
-→ Mobile Architecture
-→ Firebase
-→ Product Engineering
-→ Design Systems
-→ Realtime Applications
-```
-
-<br>
-
-<!-- ============================== -->
-<!--             CONTACT            -->
-<!-- ============================== -->
-
-## 🤝 Let's connect
-
-If you want to talk about **mobile development, Swift, Kotlin, architecture, products or software engineering**, feel free to reach out.
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/lucasdevops">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=swift,kotlin,firebase,git&theme=dark"
     />
-  </a>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://skillicons.dev/icons?i=swift,kotlin,firebase,git&theme=light"
+    />
+    <img
+      height="48"
+      src="https://skillicons.dev/icons?i=swift,kotlin,firebase,git&theme=light"
+      alt="Swift, Kotlin, Firebase e Git"
+    />
+  </picture>
+</p>
 
+<br>
+
+<table>
+  <tr>
+    <td><b>iOS</b></td>
+    <td>Swift · SwiftUI · Swift Concurrency · The Composable Architecture</td>
+  </tr>
+  <tr>
+    <td><b>Android</b></td>
+    <td>Kotlin · Desenvolvimento nativo</td>
+  </tr>
+  <tr>
+    <td><b>Integrações</b></td>
+    <td>Firebase · Firestore · Autenticação · APIs REST</td>
+  </tr>
+  <tr>
+    <td><b>Estrutura</b></td>
+    <td>Feature-first · Design Systems · Modularização · Testabilidade</td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+## O que me importa no código
+
+### Que o próximo passo não seja um problema.
+
+Uma feature nova não deveria exigir uma expedição pelo projeto inteiro. Gosto de responsabilidades claras, dependências explícitas e módulos que tenham uma razão para existir.
+
+### Que a interface funcione fora do caminho feliz.
+
+Carregamento, erro, tela vazia, conexão ruim. Também são partes do produto, não detalhes para resolver depois.
+
+### Que a solução caiba no problema.
+
+Prefiro discutir os trade-offs a defender uma arquitetura por costume. Às vezes, a melhor decisão técnica é não adicionar mais uma camada.
+
+<br>
+
+<details>
+  <summary><b>Fora do editor</b></summary>
+  <br>
+  <p>
+    Também sou guitarrista, apaixonado por música e gosto de jogos competitivos.
+    Nem todo ajuste fino acontece no Xcode. Às vezes, acontece no timbre. 🎸
+  </p>
+</details>
+
+<br>
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <sub>CONTATO</sub>
+</p>
+
+<h2 align="center">
+  Uma boa conversa também constrói coisas.
+</h2>
+
+<p align="center">
+  Desenvolvimento mobile, decisões de arquitetura ou uma ideia de aplicativo.
+  <br>
+  Podemos começar por aí.
+</p>
+
+<br>
+
+<p align="center">
   <a href="mailto:lucasamorim78c@gmail.com">
     <img
-      src="https://img.shields.io/badge/Gmail-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
+      src="https://img.shields.io/badge/ESCREVA%20PARA%20MIM-302820?style=for-the-badge"
+      alt="Escreva para mim por e-mail"
     />
   </a>
-
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucasdevops">
+    <img
+      src="https://img.shields.io/badge/VAMOS%20NOS%20CONECTAR-42334F?style=for-the-badge"
+      alt="Vamos nos conectar no LinkedIn"
+    />
+  </a>
 </p>
 
 <br>
-
-<!-- ============================== -->
-<!--              QUOTE             -->
-<!-- ============================== -->
-
-<div align="center">
-
-### `Build. Break. Learn. Refactor. Ship.`
-
-<sub>
-Good software is built one thoughtful decision at a time.
-</sub>
-
-</div>
-
 <br>
 
-<!-- ============================== -->
-<!--             FOOTER             -->
-<!-- ============================== -->
+<p align="center">
+  <sub>Lucas de Amorim &nbsp; · &nbsp; <a href="https://github.com/zunknownuser">@zunknownuser</a></sub>
+</p>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,50:1F6FEB,100:7C3AED"
-/>
+<!--
+As imagens decorativas dependem de serviços externos.
+O conteúdo principal permanece em texto para não depender delas.
+-->
